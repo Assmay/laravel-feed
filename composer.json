@@ -1,5 +1,5 @@
 {
-	"name": "Assmay/laravel-feed",
+	"name": "assmay/laravel-feed",
 	"description": "Laravelium Feed package for Laravel.",
 	"homepage": "https://laravelium.com",
 	"keywords": ["laravelium", "laravel", "feed", "generator", "rss", "atom"],
